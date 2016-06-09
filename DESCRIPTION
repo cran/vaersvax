@@ -1,12 +1,12 @@
 Package: vaersvax
 Title: US Vaccine Adverse Event Reporting System (VAERS) Vaccine Data
         for Present
-Version: 1.0.0
-Depends: R (>= 2.14.0)
-Suggests: data.table, dplyr, rpivotTable
+Version: 1.0.1
+Depends: R (>= 2.14.1)
+Suggests: vaersNDvax, data.table, dplyr, rpivotTable, knitr, rmarkdown
 Author: Irucka Embry [aut, cre]
 Maintainer: Irucka Embry <iembry@ecoccs.com>
-Description: US VAERS vaccine data for 01/01/2016 - 03/14/2016. If you want to
+Description: US VAERS vaccine data for 01/01/2016 - 04/14/2016. If you want to
     explore the full VAERS data for 1990 - Present (data, symptoms, and
     vaccines), then check out the 'vaers' package from the URL below. The URL
     and BugReports below correspond to the 'vaers' package, of which 'vaersvax'
@@ -26,6 +26,6 @@ License: CC0
 LazyData: true
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-04-23 02:53:14 UTC; uoxyh
+Packaged: 2016-06-08 15:26:37 UTC; uoxyh
 Repository: CRAN
-Date/Publication: 2016-04-23 09:02:38
+Date/Publication: 2016-06-09 05:49:20

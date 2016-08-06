@@ -8,7 +8,7 @@
 #'
 #'
 #'
-#' @format A data.table data frame with 7,270 rows and 8 variables:
+#' @format A data.table data frame with 19,016 rows and 8 variables:
 #' \describe{
 #' \item{VAERS_ID}{VAERS Identification Number}
 #' \item{VAX_TYPE}{Administered Vaccine Type}

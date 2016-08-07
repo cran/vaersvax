@@ -1,10 +1,12 @@
 Package: vaersvax
 Title: US Vaccine Adverse Event Reporting System (VAERS) Vaccine Data
         for Present
-Version: 1.0.2
+Version: 1.0.3
 Depends: R (>= 2.14.1)
 Suggests: vaersNDvax, vaers, vaersND, data.table (>= 1.9.4), dplyr,
         rpivotTable, knitr, rmarkdown
+Additional_repositories: https://gitlab.com/iembry/vaers,
+        https://gitlab.com/iembry/vaersND
 Author: Irucka Embry [aut, cre]
 Maintainer: Irucka Embry <iembry@ecoccs.com>
 Description: US VAERS vaccine data for 01/01/2016 - 06/14/2016. If you want to
@@ -18,15 +20,14 @@ Description: US VAERS vaccine data for 01/01/2016 - 06/14/2016. If you want to
     post-marketing safety surveillance program, collecting information about
     adverse events (possible side effects) that occur after the administration
     of vaccines licensed for use in the United States." For more information
-    about the data, visit https://vaers.hhs.gov/index. For information about
+    about the data, visit <https://vaers.hhs.gov/index>. For information about
     vaccination/immunization hazards, visit
-    http://www.questionuniverse.com/rethink.html/#vaccine.
+    <http://www.questionuniverse.com/rethink.html/#vaccine>.
 URL: https://gitlab.com/iembry/vaers
 BugReports: https://gitlab.com/iembry/vaers/issues
 License: CC0
 LazyData: true
-RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-08-05 21:50:45 UTC; uoxyh
+Packaged: 2016-08-07 02:15:44 UTC; uoxyh
 Repository: CRAN
-Date/Publication: 2016-08-06 14:27:32
+Date/Publication: 2016-08-07 14:55:13

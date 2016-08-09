@@ -1,6 +1,11 @@
-﻿# vaersvax 1.0.3
+﻿# vaersvax 1.0.4
 
-* Added Additional_Repositories field and added < > around URLs in Description field in DESCRIPTION file as pointed out by Uwe Ligges
+* Added installation notes for `vaers` and `vaersND` in Description field in DESCRIPTION file as pointed out by Uwe Ligges
+
+
+# vaersvax 1.0.3
+
+* Added < > around URLs in Description field in DESCRIPTION file as pointed out by Uwe Ligges
 
 
 # vaersvax 1.0.2

@@ -22,7 +22,7 @@
 #'
 #'
 #' @references
-#' US Centers for Disease Control and Prevention (CDC) and the US Food and Drug Administration (FDA) Vaccine Adverse Event Reporting System (VAERS) \url{https://vaers.hhs.gov/index} and \url{https://vaers.hhs.gov/data/READMEJanuary2015.pdf}.
+#' US Centers for Disease Control and Prevention (CDC) and the US Food and Drug Administration (FDA) Vaccine Adverse Event Reporting System (VAERS) \url{https://vaers.hhs.gov/} and \url{https://vaers.hhs.gov/docs/VAERSDataUseGuide_October2017.pdf}.
 #'
 #'
 #'
@@ -30,6 +30,6 @@
 #' @name vaersvax
 #' @usage vaersvax
 #' @examples
-#' library(data.table)
+#' library("data.table")
 #' vaersvax
 NULL

@@ -1,10 +1,9 @@
-280933fa6d7da25d02d94be424455e67 *DESCRIPTION
+cc6c0e06e841c51cca13a1f190640762 *DESCRIPTION
 7bae63a234e80ee7c6427dce9fdba6cc *LICENSE.note
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
-9b9b1f9ba7107dd4e0b442d579b7e642 *NEWS.md
-43ad07030150e7614aac338bea4d6c63 *R/data-vaers_vax.R
-cdddd49b06340b41631f526705700994 *R/vaers_vax.R
-0f1558cc5ed55cd78e9f598f7d10e437 *README.md
-6215be9c0153862d4e544c66395b3b97 *data/vaersvax.RData
-626d546e8fb2ab4146798f84dfa77e33 *inst/DISCLAIMER
-d69f9eecc6af8cbd3e12805b805d54ad *man/vaersvax.Rd
+689adbec8f403653dd11b89894d67bed *NEWS.md
+d9ee012119ff91ad3e4f6eb18fee089c *R/data-vaers_vax.R
+95b924cb36d6536154f74ea9a3bd04c7 *R/vaers_vax.R
+00b59e00f7d4a8fb05ccbebd2a3ba48b *README.md
+35f219f6dc0cf6d55b51016cbe6c108c *data/vaersvax.RData
+122fb1ab56b61d96dd26b212a487230c *man/vaersvax.Rd

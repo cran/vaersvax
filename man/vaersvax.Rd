@@ -17,7 +17,7 @@
 \item{VAX_NAME}{Vaccination Name}
 }}
 \source{
-VAERS \url{https://vaers.hhs.gov/index}
+VAERS \url{https://vaers.hhs.gov/}
 }
 \usage{
 vaersvax
@@ -30,18 +30,18 @@ There is a matching record in this file with the VAERSDATA file identified
 by VAERS_ID."
 
 vaersvax provides the US Vaccine Adverse Event Reporting System
-(VAERS) vaccine data for the Present. "VAERS is a national vaccine safety
-surveillance program co-sponsored by the US Centers for Disease Control
-and Prevention (CDC) and the US Food and Drug Administration (FDA). VAERS
-is a post-marketing safety surveillance program, collecting information
-about adverse events (possible side effects) that occur after the
-administration of vaccines licensed for use in the United States."
+(VAERS) vaccine data for the Present. "The Vaccine Adverse Event Reporting
+System (VAERS) is a national early warning system to detect possible safety
+problems in U.S.-licensed vaccines. VAERS is co-managed by the Centers for
+Disease Control and Prevention (CDC) and the U.S. Food and Drug
+Administration (FDA)." For more information about the data, visit
+<https://vaers.hhs.gov/>. For information about vaccination/immunization
+hazards, visit <http://www.questionuniverse.com/rethink.html#vaccine>.
 }
 \examples{
-library(data.table)
+library("data.table")
 vaersvax
 }
 \references{
-US Centers for Disease Control and Prevention (CDC) and the US Food and Drug Administration (FDA) Vaccine Adverse Event Reporting System (VAERS) \url{https://vaers.hhs.gov/index} and \url{https://vaers.hhs.gov/data/READMEJanuary2015.pdf}.
+US Centers for Disease Control and Prevention (CDC) and the US Food and Drug Administration (FDA) Vaccine Adverse Event Reporting System (VAERS) \url{https://vaers.hhs.gov/} and \url{https://vaers.hhs.gov/docs/VAERSDataUseGuide_October2017.pdf}.
 }
-
